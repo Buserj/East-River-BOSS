@@ -1,0 +1,21 @@
+﻿sample-id,system,time,location,year
+CC,Clements-creek,August,"Hotaling et al., 2019",summer
+SFTC,South-fork-teton-creek,August,"Hotaling et al., 2019",summer
+NFTC1,North-fork-teton-creek,August,"Hotaling et al., 2019",summer
+NFTC2,North-fork-teton-creek,August,"Hotaling et al., 2019",summer
+LC1,Lunch-creek,August,"Hotaling et al., 2019",summer
+LC2,Lunch-creek,August,"Hotaling et al., 2019",summer
+Saup1,Meander-A-ER,July,"Saup et al., 2019",summer
+Saup2,Meander-A-ER,July,"Saup et al., 2019",summer
+Saup3,Meander-B-ER,July,"Saup et al., 2019",summer
+Saup4,Meander-B-ER,July,"Saup et al., 2019",summer
+Saup5,Meander-C-ER,July,"Saup et al., 2019",summer
+Saup6,Meander-C-ER,July,"Saup et al., 2019",summer
+sample-5,BOSS1,October,BOSS,winter
+sample-6,BOSS2,November,BOSS,winter
+sample-3,Retrieval,November,ER-Discrete,winter
+sample-4,Retrieval,November,ER-Discrete,winter
+sample-51,Deployment,October,ER-Discrete,winter
+sample-52,Deployment,October,ER-Discrete,winter
+sample-53,Deployment,October,ER-Discrete,winter
+sample-54,Deployment,October,ER-Discrete,winter
